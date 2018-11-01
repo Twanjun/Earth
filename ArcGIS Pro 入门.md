@@ -1,5 +1,5 @@
 # ArcGIS Pro 入门
-
+![](https://github.com/Twanjun/GIS/blob/master/pics/2018110101.png)
 ## 注册下载 ArcGIS Pro
 
 先注册 ArcGIS 试用账号，点击 [https://www.esri.com/zh-cn/arcgis/trial](https://www.esri.com/zh-cn/arcgis/trial) 进入试用账号注册页面。详细步骤可以参考这个教程：[如何试用最新版本的ArcGIS Pro](https://blog.csdn.net/ceibake/article/details/81636873?utm_source=blogxgwz2)
@@ -12,4 +12,5 @@
 
 ## ArcGIS Pro 入门
 
-启动 ArcGIS Pro
+启动 ArcGIS Pro，会弹出一个界面，要求新建一个工程或打开已有的工程
+![](https://github.com/Twanjun/GIS/blob/master/pics/2018110102.png)
