@@ -29,3 +29,4 @@
 4. 规则设计，调整布局/模型风格细化
 5. 成果共享，导出模型/发布 3D web scene
 
+![](https://github.com/Twanjun/Earth/blob/master/pics/2018122701.png)
