@@ -1,6 +1,6 @@
 **创建工程和场景**
 
-1. 点击 File > New > CityEngine > CityEngine project
+点击 File > New > CityEngine > CityEngine project
 
 ![](https://github.com/Twanjun/Earth/blob/master/pics/2018122702.png)
 
