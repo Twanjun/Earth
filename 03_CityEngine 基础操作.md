@@ -26,6 +26,8 @@
 在刚创建的工程文件夹中，右击 scenes > New > CityEngine project，在弹出的窗口中命名场景名 myFirstCity_01.cej。点击完成，scenes 目录下就出现
  myFirstCity_01.cej 场景文件。
  
+ ![](https://github.com/Twanjun/Earth/blob/master/pics/2019010301.png)
+ 
 **三、创建街道网络**
 
 1. 激活场景窗口
