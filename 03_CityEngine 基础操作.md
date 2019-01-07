@@ -25,6 +25,10 @@
 
 **创建街道网络**
 
+1. 激活场景窗口
+
+2. 点击 Graph > Grow Streets，在弹出的窗口中设置参数创建道路网。具体使用方式参见：[【CityEngine教程文档】 ---02 街道教程 之高级街道网](https://blog.csdn.net/arcgis_all/article/details/9922443)
+
 **规则的使用**
 
 **可视化的规则编辑器**
