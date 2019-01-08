@@ -8,6 +8,8 @@
 
 [https://geogeek.xyz/](https://geogeek.xyz/)
 
+[国际摄影测量与遥感学会地球空间信息](http://gsw2017.3snews.net/)
+
 **个人站点**
 
 [http://kikitamap.com/](http://kikitamap.com/)
