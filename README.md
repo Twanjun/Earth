@@ -20,5 +20,8 @@
 
 [http://www.voidcn.com/article/p-xgiesyzh-br.html](http://www.voidcn.com/article/p-xgiesyzh-br.html)
 
+**资讯**
+
+[武汉大学室内定位团队获第九届国际室内定位与室内导航大会国际赛事冠军](http://www.lmars.whu.edu.cn/index.php/xwzx/2255.html)
 
 * 181029 创建
